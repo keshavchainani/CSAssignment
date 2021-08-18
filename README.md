@@ -2,7 +2,8 @@
 
 Run Using command line:  <br />
 
-1. Copy server.log file in local Dir. Eg. c:/server.log    <br />
+1. Copy server.log file in local Dir. Eg. c:/server.log    <br />  I have added test server log file at below location  <br /> 
+   https://github.com/keshavchainani/CSAssignment/blob/main/server.log  copy it at local path Eg. c:/server.log
 2. To run project using command line follow below instructions.  <br />
 3. Navigate to the root of the project(inside MavenEclipseProject) via command line and execute the below command.   <br />
 4. mvn package  <br />

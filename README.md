@@ -14,5 +14,5 @@ Run in eclipse:
 1. Import as Maven project <br />
 2. Give program argument as c://server.log before running. <br />
 3. Run as Java project from CsAssignmentMain class <br />
-4. Projet > Run as junit to run the test cases <br />
+4. TO run the junit test cases: Right click on project > Run as JUnit Test  <br />
 Make sure server.log file exist on the specified location
